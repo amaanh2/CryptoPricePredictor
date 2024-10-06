@@ -1,0 +1,3651 @@
+2024-07-25 06:19:56 - INFO - custom_logger.py - set_loggers() - 31 - Testing info log
+2024-07-25 06:19:56 - INFO - dos_ind_cart_funcs.py - get_cur_ind_set_tuple() - 90 - 
+Indicator Settings
+Indicator Settings Inex: 20
+First EMA Length: 10
+Second EMA Length: 220
+            
+2024-07-25 06:19:56 - INFO - strategy.py - set_cur_dos_tuple() - 153 - 
+Settings Index= 20
+account_pct_risk_per_trade=20.0
+max_trades=2
+risk_reward=3.0
+sl_based_on_add_pct=0.3
+sl_based_on_lookback=30
+sl_bcb_type=7
+sl_to_be_cb_type=11
+sl_to_be_when_pct=0.0
+trail_sl_bcb_type=7
+trail_sl_by_pct=2.0
+trail_sl_when_pct=3.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 26662.5
+entry_price= 26662.5
+entry_size_asset= 0.803
+entry_size_usd= 21418.7
+position_size_asset= 0.803
+position_size_usd= 21418.7
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 693.28
+cash_borrowed= 21111.98
+cash_used= 306.72
+leverage= 76.14
+liq_price= 26419.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 27433.6
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 26655.6
+entry_price= 26642.5
+entry_size_asset= 0.874
+entry_size_usd= 23273.357
+position_size_asset= 1.677
+position_size_usd= 44692.06
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 64.31
+cash_borrowed= 64868.35
+cash_used= 935.69
+leverage= 77.65
+liq_price= 26418.9
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 27395.5
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26570.0
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26505.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26534.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26572.1
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26611.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26642.0
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26629.1
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26747.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26755.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26755.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26772.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26720.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26720.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26710.0
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26710.0
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-15T20:40:00.000
+equity= 2200.21
+fees_paid= 40.6
+order_status= TakeProfitFilled
+realized_pnl= 1200.21
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 27970.8
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28212.0
+entry_price= 28212.0
+entry_size_asset= 1.601
+entry_size_usd= 45154.03
+position_size_asset= 1.601
+position_size_usd= 45154.03
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1534.77
+cash_borrowed= 44488.59
+cash_used= 665.44
+leverage= 73.85
+liq_price= 27942.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29062.4
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28021.0
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28222.8
+entry_price= 28242.0
+entry_size_asset= 2.042
+entry_size_usd= 57679.338
+position_size_asset= 3.643
+position_size_usd= 102833.37
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 163.62
+cash_borrowed= 145285.37
+cash_used= 2036.59
+leverage= 82.35
+liq_price= 27993.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 28973.0
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28032.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28222.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-18T04:55:00.000
+equity= 4839.84
+fees_paid= 93.35
+order_status= TakeProfitFilled
+realized_pnl= 2639.63
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28189.1
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28378.1
+entry_price= 28378.1
+entry_size_asset= 4.337
+entry_size_usd= 123089.55
+position_size_asset= 4.337
+position_size_usd= 123089.55
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3258.73
+cash_borrowed= 121508.44
+cash_used= 1581.11
+leverage= 85.81
+liq_price= 28160.9
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29072.7
+tp_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-19T01:40:00.000
+equity= 3872.95
+fees_paid= 147.2
+order_status= StopLossFilled
+realized_pnl= -966.89
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28141.9
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28344.2
+entry_price= 28344.2
+entry_size_asset= 3.277
+entry_size_usd= 92883.94
+position_size_asset= 3.277
+position_size_usd= 92883.94
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2635.48
+cash_borrowed= 91646.47
+cash_used= 1237.47
+leverage= 82.44
+liq_price= 28113.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29078.5
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-20T02:45:00.000
+equity= 6194.93
+fees_paid= 84.32
+order_status= TakeProfitFilled
+realized_pnl= 2321.98
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29355.2
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29531.0
+entry_price= 29531.0
+entry_size_asset= 5.864
+entry_size_usd= 173159.1
+position_size_asset= 5.864
+position_size_usd= 173159.1
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 4092.59
+cash_borrowed= 171056.76
+cash_used= 2102.34
+leverage= 91.35
+liq_price= 29325.9
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30191.2
+tp_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-21T18:00:00.000
+equity= 9909.33
+fees_paid= 157.01
+order_status= TakeProfitFilled
+realized_pnl= 3714.4
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29740.5
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29896.9
+entry_price= 29896.9
+entry_size_asset= 10.308
+entry_size_usd= 308174.66
+position_size_asset= 10.308
+position_size_usd= 308174.66
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 6389.99
+cash_borrowed= 304655.32
+cash_used= 3519.34
+leverage= 97.79
+liq_price= 29710.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30500.5
+tp_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-22T07:40:00.000
+equity= 7928.31
+fees_paid= 368.85
+order_status= StopLossFilled
+realized_pnl= -1981.02
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29517.8
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29919.3
+entry_price= 29919.3
+entry_size_asset= 3.626
+entry_size_usd= 108477.09
+position_size_asset= 3.626
+position_size_usd= 108477.09
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 5802.5
+cash_borrowed= 106351.28
+cash_used= 2125.81
+leverage= 54.33
+liq_price= 29488.3
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 31258.1
+tp_pct= 4.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29711.6
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29922.3
+entry_price= 29926.5
+entry_size_asset= 9.124
+entry_size_usd= 273049.404
+position_size_asset= 12.75
+position_size_usd= 381526.49
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 755.92
+cash_borrowed= 480705.38
+cash_used= 7172.39
+leverage= 83.09
+liq_price= 29681.9
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30695.3
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29711.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29680.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29740.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29747.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-22T21:55:00.000
+equity= 4785.68
+fees_paid= 456.2
+order_status= StopLossFilled
+realized_pnl= -3142.63
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29608.9
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29974.0
+entry_price= 29974.0
+entry_size_asset= 2.387
+entry_size_usd= 71560.77
+position_size_asset= 2.387
+position_size_usd= 71560.77
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3472.27
+cash_borrowed= 70247.36
+cash_used= 1313.41
+leverage= 58.25
+liq_price= 29579.3
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 31203.9
+tp_pct= 4.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-23T16:55:00.000
+equity= 7656.17
+fees_paid= 65.28
+order_status= TakeProfitFilled
+realized_pnl= 2870.49
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33279.1
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 33860.8
+entry_price= 33860.8
+entry_size_asset= 2.461
+entry_size_usd= 83347.63
+position_size_asset= 2.461
+position_size_usd= 83347.63
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 5710.4
+cash_borrowed= 81401.86
+cash_used= 1945.77
+leverage= 45.12
+liq_price= 33245.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 35757.8
+tp_pct= 6.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33279.1
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 33837.0
+entry_price= 33792.1
+entry_size_asset= 2.767
+entry_size_usd= 93513.571
+position_size_asset= 5.228
+position_size_usd= 176861.2
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1701.82
+cash_borrowed= 252308.71
+cash_used= 5954.35
+leverage= 46.57
+liq_price= 33245.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 35625.5
+tp_pct= 5.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33384.8
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33559.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34298.5
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33987.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33867.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33827.5
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33810.4
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33765.8
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33872.0
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34001.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34183.4
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34207.8
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33914.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34057.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34227.4
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34301.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34250.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34250.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34100.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34100.7
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-01T21:00:00.000
+equity= 16844.43
+fees_paid= 162.02
+order_status= TakeProfitFilled
+realized_pnl= 9188.26
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34052.9
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 34718.5
+entry_price= 34718.5
+entry_size_asset= 4.765
+entry_size_usd= 165423.76
+position_size_asset= 4.765
+position_size_usd= 165423.76
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 12652.33
+cash_borrowed= 161231.66
+cash_used= 4192.1
+leverage= 41.4
+liq_price= 34018.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 36871.0
+tp_pct= 6.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34237.0
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 34670.1
+entry_price= 34599.9
+entry_size_asset= 10.501
+entry_size_usd= 363344.767
+position_size_asset= 15.266
+position_size_usd= 528768.53
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2771.33
+cash_borrowed= 675927.09
+cash_used= 14073.1
+leverage= 57.21
+liq_price= 34202.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 36026.7
+tp_pct= 4.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34467.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34707.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34252.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34724.3
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34716.5
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34800.3
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34850.3
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34456.3
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34967.8
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-08T23:45:00.000
+equity= 37071.73
+fees_paid= 482.56
+order_status= TakeProfitFilled
+realized_pnl= 20227.3
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36042.1
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36598.6
+entry_price= 36598.6
+entry_size_asset= 12.355
+entry_size_usd= 452173.08
+position_size_asset= 12.355
+position_size_usd= 452173.08
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 27405.27
+cash_borrowed= 442506.62
+cash_used= 9666.46
+leverage= 49.53
+liq_price= 36006.1
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38432.3
+tp_pct= 5.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36324.0
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36667.4
+entry_price= 36775.2
+entry_size_asset= 22.007
+entry_size_usd= 809311.063
+position_size_asset= 34.362
+position_size_usd= 1261484.14
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 7816.81
+cash_borrowed= 1674735.84
+cash_used= 29254.92
+leverage= 69.66
+liq_price= 36287.7
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37993.8
+tp_pct= 4.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36831.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36824.3
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36478.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36797.3
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36844.1
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36849.1
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T00:15:00.000
+equity= 23766.94
+fees_paid= 1504.88
+order_status= StopLossFilled
+realized_pnl= -13304.79
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36295.6
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36658.0
+entry_price= 36658.0
+entry_size_asset= 11.702
+entry_size_usd= 428969.51
+position_size_asset= 11.702
+position_size_usd= 428969.51
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 16874.39
+cash_borrowed= 422076.96
+cash_used= 6892.55
+leverage= 67.22
+liq_price= 36259.3
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37909.9
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36295.6
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36657.1
+entry_price= 36655.2
+entry_size_asset= 11.783
+entry_size_usd= 431916.007
+position_size_asset= 23.485
+position_size_usd= 860885.52
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3062.83
+cash_borrowed= 1262258.37
+cash_used= 20704.11
+leverage= 67.33
+liq_price= 36259.3
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37904.8
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T11:25:00.000
+equity= 14249.13
+fees_paid= 1027.98
+order_status= StopLossFilled
+realized_pnl= -9517.81
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36092.9
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36665.3
+entry_price= 36665.3
+entry_size_asset= 4.625
+entry_size_usd= 169561.9
+position_size_asset= 4.625
+position_size_usd= 169561.9
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10554.9
+cash_borrowed= 165867.67
+cash_used= 3694.23
+leverage= 48.55
+liq_price= 36056.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38547.0
+tp_pct= 5.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T15:30:00.000
+equity= 11399.87
+fees_paid= 201.91
+order_status= StopLossFilled
+realized_pnl= -2849.26
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 35442.2
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 35803.1
+entry_price= 35803.1
+entry_size_asset= 5.646
+entry_size_usd= 202145.01
+position_size_asset= 5.646
+position_size_usd= 202145.01
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8112.95
+cash_borrowed= 198858.09
+cash_used= 3286.92
+leverage= 66.36
+liq_price= 35406.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37046.6
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-15T18:10:00.000
+equity= 18236.63
+fees_paid= 184.04
+order_status= TakeProfitFilled
+realized_pnl= 6836.76
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36000.0
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36650.0
+entry_price= 36650.0
+entry_size_asset= 5.258
+entry_size_usd= 192711.18
+position_size_asset= 5.258
+position_size_usd= 192711.18
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 13630.32
+cash_borrowed= 188104.87
+cash_used= 4606.31
+leverage= 44.02
+liq_price= 35964.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38764.4
+tp_pct= 6.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36021.0
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36610.8
+entry_price= 36540.8
+entry_size_asset= 6.67
+entry_size_usd= 243720.431
+position_size_asset= 11.928
+position_size_usd= 436431.61
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3900.81
+cash_borrowed= 610200.66
+cash_used= 14335.82
+leverage= 47.41
+liq_price= 35985.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38479.9
+tp_pct= 5.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-17T14:45:00.000
+equity= 10681.68
+fees_paid= 519.82
+order_status= StopLossFilled
+realized_pnl= -7554.95
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 35809.3
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36527.0
+entry_price= 36527.0
+entry_size_asset= 2.806
+entry_size_usd= 102511.48
+position_size_asset= 2.806
+position_size_usd= 102511.48
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8035.7
+cash_borrowed= 99865.5
+cash_used= 2645.98
+leverage= 40.6
+liq_price= 35773.4
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38843.9
+tp_pct= 6.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36087.4
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36479.9
+entry_price= 36416.0
+entry_size_asset= 7.837
+entry_size_usd= 285376.922
+position_size_asset= 10.643
+position_size_usd= 387888.4
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1459.2
+cash_borrowed= 478531.42
+cash_used= 9222.48
+leverage= 63.5
+liq_price= 36051.3
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37718.4
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36340.6
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36323.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36273.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36273.9
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36490.2
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-20T17:45:00.000
+equity= 23509.66
+fees_paid= 353.38
+order_status= TakeProfitFilled
+realized_pnl= 12827.98
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37138.6
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37424.7
+entry_price= 37424.7
+entry_size_asset= 14.209
+entry_size_usd= 531781.49
+position_size_asset= 14.209
+position_size_usd= 531781.49
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 16155.39
+cash_borrowed= 524427.22
+cash_used= 7354.27
+leverage= 79.13
+liq_price= 37101.4
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38451.2
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37183.8
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37424.4
+entry_price= 37423.8
+entry_size_asset= 18.762
+entry_size_usd= 702161.843
+position_size_asset= 32.971
+position_size_usd= 1233943.33
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 589.25
+cash_borrowed= 1735450.14
+cash_used= 22920.41
+leverage= 87.55
+liq_price= 37146.6
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38313.8
+tp_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-21T11:25:00.000
+equity= 14100.9
+fees_paid= 1475.94
+order_status= StopLossFilled
+realized_pnl= -9408.76
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36103.6
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37396.3
+entry_price= 37396.3
+entry_size_asset= 2.11
+entry_size_usd= 78888.07
+position_size_asset= 2.11
+position_size_usd= 78888.07
+sl_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10889.26
+cash_borrowed= 75676.43
+cash_used= 3211.64
+leverage= 25.3
+liq_price= 36067.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 41441.6
+tp_pct= 11.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-21T23:20:00.000
+equity= 11280.25
+fees_paid= 93.05
+order_status= StopLossFilled
+realized_pnl= -2820.65
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36276.2
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36628.0
+entry_price= 36628.0
+entry_size_asset= 5.704
+entry_size_usd= 208909.95
+position_size_asset= 5.704
+position_size_usd= 208909.95
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 7982.24
+cash_borrowed= 205611.94
+cash_used= 3298.01
+leverage= 68.52
+liq_price= 36240.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37848.0
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-22T15:05:00.000
+equity= 9024.07
+fees_paid= 249.51
+order_status= StopLossFilled
+realized_pnl= -2256.18
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36131.3
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36634.4
+entry_price= 36634.4
+entry_size_asset= 3.299
+entry_size_usd= 120873.01
+position_size_asset= 3.299
+position_size_usd= 120873.01
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 6618.01
+cash_borrowed= 118466.95
+cash_used= 2406.06
+leverage= 53.42
+liq_price= 36095.2
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38308.2
+tp_pct= 5.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36241.9
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36603.8
+entry_price= 36556.5
+entry_size_asset= 6.053
+entry_size_usd= 221280.18
+position_size_asset= 9.352
+position_size_usd= 342153.19
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1117.77
+cash_borrowed= 452713.84
+cash_used= 7906.3
+leverage= 67.22
+liq_price= 36205.7
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37795.1
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-22T21:25:00.000
+equity= 19853.68
+fees_paid= 311.43
+order_status= TakeProfitFilled
+realized_pnl= 10829.61
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36810.8
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37266.7
+entry_price= 37266.7
+entry_size_asset= 7.935
+entry_size_usd= 295692.68
+position_size_asset= 7.935
+position_size_usd= 295692.68
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 14409.56
+cash_borrowed= 290248.56
+cash_used= 5444.12
+leverage= 58.07
+liq_price= 36774.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38801.7
+tp_pct= 4.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36896.7
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37262.0
+entry_price= 37254.2
+entry_size_asset= 11.57
+entry_size_usd= 431043.532
+position_size_asset= 19.505
+position_size_usd= 726736.21
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2792.45
+cash_borrowed= 999923.54
+cash_used= 17061.23
+leverage= 67.6
+liq_price= 36859.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38517.2
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36955.8
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37024.0
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37097.4
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37097.4
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37448.1
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37494.8
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37580.1
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37572.5
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37143.3
+2024-07-25 06:19:56 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-27T11:35:00.000
+equity= 11860.62
+fees_paid= 867.88
+order_status= StopLossFilled
+realized_pnl= -7993.06
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36665.7
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37232.5
+entry_price= 37232.5
+entry_size_asset= 3.881
+entry_size_usd= 144509.68
+position_size_asset= 3.881
+position_size_usd= 144509.68
+sl_pct= 2.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8769.2
+cash_borrowed= 141418.26
+cash_used= 3091.42
+leverage= 49.49
+liq_price= 36629.1
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39100.0
+tp_pct= 5.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36806.6
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37181.3
+entry_price= 37106.8
+entry_size_asset= 8.471
+entry_size_usd= 314318.509
+position_size_asset= 12.352
+position_size_usd= 458828.19
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1302.49
+cash_borrowed= 589688.32
+cash_used= 10558.13
+leverage= 66.37
+liq_price= 36769.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38368.4
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-28T19:40:00.000
+equity= 26105.94
+fees_paid= 417.74
+order_status= TakeProfitFilled
+realized_pnl= 14245.32
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37560.0
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37848.3
+entry_price= 37848.3
+entry_size_asset= 15.653
+entry_size_usd= 592441.76
+position_size_asset= 15.653
+position_size_usd= 592441.76
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 17928.63
+cash_borrowed= 584264.45
+cash_used= 8177.31
+leverage= 79.3
+liq_price= 37522.4
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38883.3
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37667.3
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37862.4
+entry_price= 37885.0
+entry_size_asset= 26.231
+entry_size_usd= 993759.935
+position_size_asset= 41.884
+position_size_usd= 1586201.7
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - WARNING - leverage.py - calc_liq_price() - 123 - Cash used bigger than available balance AKA position size too big
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37525.5
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37860.3
+entry_price= 37888.8
+entry_size_asset= 11.458
+entry_size_usd= 434143.202
+position_size_asset= 27.111
+position_size_usd= 1026584.96
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2504.68
+cash_borrowed= 1587248.15
+cash_used= 23601.26
+leverage= 72.28
+liq_price= 37487.9
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39050.0
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-30T14:00:00.000
+equity= 15802.91
+fees_paid= 1226.27
+order_status= StopLossFilled
+realized_pnl= -10303.03
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37506.9
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37777.5
+entry_price= 37777.5
+entry_size_asset= 10.007
+entry_size_usd= 378049.4
+position_size_asset= 10.007
+position_size_usd= 378049.4
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10756.91
+cash_borrowed= 373003.4
+cash_used= 5046.0
+leverage= 82.27
+liq_price= 37469.4
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38759.1
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37570.5
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37775.4
+entry_price= 37771.9
+entry_size_asset= 15.393
+entry_size_usd= 581435.496
+position_size_asset= 25.4
+position_size_usd= 959484.9
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - WARNING - leverage.py - calc_liq_price() - 123 - Cash used bigger than available balance AKA position size too big
+2024-07-25 06:19:56 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37472.2
+2024-07-25 06:19:56 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37807.1
+entry_price= 37884.9
+entry_size_asset= 6.143
+entry_size_usd= 232726.029
+position_size_asset= 16.15
+position_size_usd= 610775.43
+sl_pct= 1.0
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1573.6
+cash_borrowed= 969549.52
+cash_used= 14229.31
+leverage= 72.21
+liq_price= 37434.8
+
+2024-07-25 06:19:56 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39015.1
+tp_pct= 3.0
+
+2024-07-25 06:19:56 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:19:56 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-12-02T19:05:00.000
+equity= 34756.73
+fees_paid= 555.38
+order_status= TakeProfitFilled
+realized_pnl= 18953.82
+
+2024-07-25 06:22:49 - INFO - custom_logger.py - set_loggers() - 31 - Testing info log
+2024-07-25 06:22:49 - INFO - dos_ind_cart_funcs.py - get_cur_ind_set_tuple() - 90 - 
+Indicator Settings
+Indicator Settings Inex: 20
+First EMA Length: 10
+Second EMA Length: 220
+            
+2024-07-25 06:22:49 - INFO - strategy.py - set_cur_dos_tuple() - 153 - 
+Settings Index= 20
+account_pct_risk_per_trade=20.0
+max_trades=2
+risk_reward=3.0
+sl_based_on_add_pct=0.3
+sl_based_on_lookback=30
+sl_bcb_type=7
+sl_to_be_cb_type=11
+sl_to_be_when_pct=0.0
+trail_sl_bcb_type=7
+trail_sl_by_pct=2.0
+trail_sl_when_pct=3.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 26662.5
+entry_price= 26662.5
+entry_size_asset= 0.803
+entry_size_usd= 21418.7
+position_size_asset= 0.803
+position_size_usd= 21418.7
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 693.28
+cash_borrowed= 21111.98
+cash_used= 306.72
+leverage= 76.14
+liq_price= 26419.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 27433.6
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 26655.6
+entry_price= 26642.5
+entry_size_asset= 0.874
+entry_size_usd= 23273.357
+position_size_asset= 1.677
+position_size_usd= 44692.06
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 64.31
+cash_borrowed= 64868.35
+cash_used= 935.69
+leverage= 77.65
+liq_price= 26418.9
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 27395.5
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26570.0
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26505.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26534.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26572.1
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26611.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26642.0
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26629.1
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26747.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26755.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26755.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26772.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26720.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26720.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26710.0
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26710.0
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-15T20:40:00.000
+equity= 2200.21
+fees_paid= 40.6
+order_status= TakeProfitFilled
+realized_pnl= 1200.21
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 27970.8
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28212.0
+entry_price= 28212.0
+entry_size_asset= 1.601
+entry_size_usd= 45154.03
+position_size_asset= 1.601
+position_size_usd= 45154.03
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1534.77
+cash_borrowed= 44488.59
+cash_used= 665.44
+leverage= 73.85
+liq_price= 27942.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29062.4
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28021.0
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28222.8
+entry_price= 28242.0
+entry_size_asset= 2.042
+entry_size_usd= 57679.338
+position_size_asset= 3.643
+position_size_usd= 102833.37
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 163.62
+cash_borrowed= 145285.37
+cash_used= 2036.59
+leverage= 82.35
+liq_price= 27993.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 28973.0
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28032.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28222.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-18T04:55:00.000
+equity= 4839.84
+fees_paid= 93.35
+order_status= TakeProfitFilled
+realized_pnl= 2639.63
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28189.1
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28378.1
+entry_price= 28378.1
+entry_size_asset= 4.337
+entry_size_usd= 123089.55
+position_size_asset= 4.337
+position_size_usd= 123089.55
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3258.73
+cash_borrowed= 121508.44
+cash_used= 1581.11
+leverage= 85.81
+liq_price= 28160.9
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29072.7
+tp_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-19T01:40:00.000
+equity= 3872.95
+fees_paid= 147.2
+order_status= StopLossFilled
+realized_pnl= -966.89
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28141.9
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28344.2
+entry_price= 28344.2
+entry_size_asset= 3.277
+entry_size_usd= 92883.94
+position_size_asset= 3.277
+position_size_usd= 92883.94
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2635.48
+cash_borrowed= 91646.47
+cash_used= 1237.47
+leverage= 82.44
+liq_price= 28113.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29078.5
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-20T02:45:00.000
+equity= 6194.93
+fees_paid= 84.32
+order_status= TakeProfitFilled
+realized_pnl= 2321.98
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29355.2
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29531.0
+entry_price= 29531.0
+entry_size_asset= 5.864
+entry_size_usd= 173159.1
+position_size_asset= 5.864
+position_size_usd= 173159.1
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 4092.59
+cash_borrowed= 171056.76
+cash_used= 2102.34
+leverage= 91.35
+liq_price= 29325.9
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30191.2
+tp_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-21T18:00:00.000
+equity= 9909.33
+fees_paid= 157.01
+order_status= TakeProfitFilled
+realized_pnl= 3714.4
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29740.5
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29896.9
+entry_price= 29896.9
+entry_size_asset= 10.308
+entry_size_usd= 308174.66
+position_size_asset= 10.308
+position_size_usd= 308174.66
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 6389.99
+cash_borrowed= 304655.32
+cash_used= 3519.34
+leverage= 97.79
+liq_price= 29710.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30500.5
+tp_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-22T07:40:00.000
+equity= 7928.31
+fees_paid= 368.85
+order_status= StopLossFilled
+realized_pnl= -1981.02
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29517.8
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29919.3
+entry_price= 29919.3
+entry_size_asset= 3.626
+entry_size_usd= 108477.09
+position_size_asset= 3.626
+position_size_usd= 108477.09
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 5802.5
+cash_borrowed= 106351.28
+cash_used= 2125.81
+leverage= 54.33
+liq_price= 29488.3
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 31258.1
+tp_pct= 4.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29711.6
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29922.3
+entry_price= 29926.5
+entry_size_asset= 9.124
+entry_size_usd= 273049.404
+position_size_asset= 12.75
+position_size_usd= 381526.49
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 755.92
+cash_borrowed= 480705.38
+cash_used= 7172.39
+leverage= 83.09
+liq_price= 29681.9
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30695.3
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29711.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29680.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29740.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29747.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-22T21:55:00.000
+equity= 4785.68
+fees_paid= 456.2
+order_status= StopLossFilled
+realized_pnl= -3142.63
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29608.9
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29974.0
+entry_price= 29974.0
+entry_size_asset= 2.387
+entry_size_usd= 71560.77
+position_size_asset= 2.387
+position_size_usd= 71560.77
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3472.27
+cash_borrowed= 70247.36
+cash_used= 1313.41
+leverage= 58.25
+liq_price= 29579.3
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 31203.9
+tp_pct= 4.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-23T16:55:00.000
+equity= 7656.17
+fees_paid= 65.28
+order_status= TakeProfitFilled
+realized_pnl= 2870.49
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33279.1
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 33860.8
+entry_price= 33860.8
+entry_size_asset= 2.461
+entry_size_usd= 83347.63
+position_size_asset= 2.461
+position_size_usd= 83347.63
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 5710.4
+cash_borrowed= 81401.86
+cash_used= 1945.77
+leverage= 45.12
+liq_price= 33245.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 35757.8
+tp_pct= 6.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33279.1
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 33837.0
+entry_price= 33792.1
+entry_size_asset= 2.767
+entry_size_usd= 93513.571
+position_size_asset= 5.228
+position_size_usd= 176861.2
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1701.82
+cash_borrowed= 252308.71
+cash_used= 5954.35
+leverage= 46.57
+liq_price= 33245.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 35625.5
+tp_pct= 5.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33384.8
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33559.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34298.5
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33987.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33867.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33827.5
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33810.4
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33765.8
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33872.0
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34001.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34183.4
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34207.8
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33914.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34057.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34227.4
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34301.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34250.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34250.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34100.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34100.7
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-01T21:00:00.000
+equity= 16844.43
+fees_paid= 162.02
+order_status= TakeProfitFilled
+realized_pnl= 9188.26
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34052.9
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 34718.5
+entry_price= 34718.5
+entry_size_asset= 4.765
+entry_size_usd= 165423.76
+position_size_asset= 4.765
+position_size_usd= 165423.76
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 12652.33
+cash_borrowed= 161231.66
+cash_used= 4192.1
+leverage= 41.4
+liq_price= 34018.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 36871.0
+tp_pct= 6.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34237.0
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 34670.1
+entry_price= 34599.9
+entry_size_asset= 10.501
+entry_size_usd= 363344.767
+position_size_asset= 15.266
+position_size_usd= 528768.53
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2771.33
+cash_borrowed= 675927.09
+cash_used= 14073.1
+leverage= 57.21
+liq_price= 34202.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 36026.7
+tp_pct= 4.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34467.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34707.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34252.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34724.3
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34716.5
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34800.3
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34850.3
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34456.3
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34967.8
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-08T23:45:00.000
+equity= 37071.73
+fees_paid= 482.56
+order_status= TakeProfitFilled
+realized_pnl= 20227.3
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36042.1
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36598.6
+entry_price= 36598.6
+entry_size_asset= 12.355
+entry_size_usd= 452173.08
+position_size_asset= 12.355
+position_size_usd= 452173.08
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 27405.27
+cash_borrowed= 442506.62
+cash_used= 9666.46
+leverage= 49.53
+liq_price= 36006.1
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38432.3
+tp_pct= 5.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36324.0
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36667.4
+entry_price= 36775.2
+entry_size_asset= 22.007
+entry_size_usd= 809311.063
+position_size_asset= 34.362
+position_size_usd= 1261484.14
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 7816.81
+cash_borrowed= 1674735.84
+cash_used= 29254.92
+leverage= 69.66
+liq_price= 36287.7
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37993.8
+tp_pct= 4.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36831.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36824.3
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36478.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36797.3
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36844.1
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36849.1
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T00:15:00.000
+equity= 23766.94
+fees_paid= 1504.88
+order_status= StopLossFilled
+realized_pnl= -13304.79
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36295.6
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36658.0
+entry_price= 36658.0
+entry_size_asset= 11.702
+entry_size_usd= 428969.51
+position_size_asset= 11.702
+position_size_usd= 428969.51
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 16874.39
+cash_borrowed= 422076.96
+cash_used= 6892.55
+leverage= 67.22
+liq_price= 36259.3
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37909.9
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36295.6
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36657.1
+entry_price= 36655.2
+entry_size_asset= 11.783
+entry_size_usd= 431916.007
+position_size_asset= 23.485
+position_size_usd= 860885.52
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3062.83
+cash_borrowed= 1262258.37
+cash_used= 20704.11
+leverage= 67.33
+liq_price= 36259.3
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37904.8
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T11:25:00.000
+equity= 14249.13
+fees_paid= 1027.98
+order_status= StopLossFilled
+realized_pnl= -9517.81
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36092.9
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36665.3
+entry_price= 36665.3
+entry_size_asset= 4.625
+entry_size_usd= 169561.9
+position_size_asset= 4.625
+position_size_usd= 169561.9
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10554.9
+cash_borrowed= 165867.67
+cash_used= 3694.23
+leverage= 48.55
+liq_price= 36056.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38547.0
+tp_pct= 5.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T15:30:00.000
+equity= 11399.87
+fees_paid= 201.91
+order_status= StopLossFilled
+realized_pnl= -2849.26
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 35442.2
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 35803.1
+entry_price= 35803.1
+entry_size_asset= 5.646
+entry_size_usd= 202145.01
+position_size_asset= 5.646
+position_size_usd= 202145.01
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8112.95
+cash_borrowed= 198858.09
+cash_used= 3286.92
+leverage= 66.36
+liq_price= 35406.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37046.6
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-15T18:10:00.000
+equity= 18236.63
+fees_paid= 184.04
+order_status= TakeProfitFilled
+realized_pnl= 6836.76
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36000.0
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36650.0
+entry_price= 36650.0
+entry_size_asset= 5.258
+entry_size_usd= 192711.18
+position_size_asset= 5.258
+position_size_usd= 192711.18
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 13630.32
+cash_borrowed= 188104.87
+cash_used= 4606.31
+leverage= 44.02
+liq_price= 35964.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38764.4
+tp_pct= 6.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36021.0
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36610.8
+entry_price= 36540.8
+entry_size_asset= 6.67
+entry_size_usd= 243720.431
+position_size_asset= 11.928
+position_size_usd= 436431.61
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3900.81
+cash_borrowed= 610200.66
+cash_used= 14335.82
+leverage= 47.41
+liq_price= 35985.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38479.9
+tp_pct= 5.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-17T14:45:00.000
+equity= 10681.68
+fees_paid= 519.82
+order_status= StopLossFilled
+realized_pnl= -7554.95
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 35809.3
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36527.0
+entry_price= 36527.0
+entry_size_asset= 2.806
+entry_size_usd= 102511.48
+position_size_asset= 2.806
+position_size_usd= 102511.48
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8035.7
+cash_borrowed= 99865.5
+cash_used= 2645.98
+leverage= 40.6
+liq_price= 35773.4
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38843.9
+tp_pct= 6.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36087.4
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36479.9
+entry_price= 36416.0
+entry_size_asset= 7.837
+entry_size_usd= 285376.922
+position_size_asset= 10.643
+position_size_usd= 387888.4
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1459.2
+cash_borrowed= 478531.42
+cash_used= 9222.48
+leverage= 63.5
+liq_price= 36051.3
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37718.4
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36340.6
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36323.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36273.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36273.9
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36490.2
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-20T17:45:00.000
+equity= 23509.66
+fees_paid= 353.38
+order_status= TakeProfitFilled
+realized_pnl= 12827.98
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37138.6
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37424.7
+entry_price= 37424.7
+entry_size_asset= 14.209
+entry_size_usd= 531781.49
+position_size_asset= 14.209
+position_size_usd= 531781.49
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 16155.39
+cash_borrowed= 524427.22
+cash_used= 7354.27
+leverage= 79.13
+liq_price= 37101.4
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38451.2
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37183.8
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37424.4
+entry_price= 37423.8
+entry_size_asset= 18.762
+entry_size_usd= 702161.843
+position_size_asset= 32.971
+position_size_usd= 1233943.33
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 589.25
+cash_borrowed= 1735450.14
+cash_used= 22920.41
+leverage= 87.55
+liq_price= 37146.6
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38313.8
+tp_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-21T11:25:00.000
+equity= 14100.9
+fees_paid= 1475.94
+order_status= StopLossFilled
+realized_pnl= -9408.76
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36103.6
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37396.3
+entry_price= 37396.3
+entry_size_asset= 2.11
+entry_size_usd= 78888.07
+position_size_asset= 2.11
+position_size_usd= 78888.07
+sl_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10889.26
+cash_borrowed= 75676.43
+cash_used= 3211.64
+leverage= 25.3
+liq_price= 36067.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 41441.6
+tp_pct= 11.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-21T23:20:00.000
+equity= 11280.25
+fees_paid= 93.05
+order_status= StopLossFilled
+realized_pnl= -2820.65
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36276.2
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36628.0
+entry_price= 36628.0
+entry_size_asset= 5.704
+entry_size_usd= 208909.95
+position_size_asset= 5.704
+position_size_usd= 208909.95
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 7982.24
+cash_borrowed= 205611.94
+cash_used= 3298.01
+leverage= 68.52
+liq_price= 36240.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37848.0
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-22T15:05:00.000
+equity= 9024.07
+fees_paid= 249.51
+order_status= StopLossFilled
+realized_pnl= -2256.18
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36131.3
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36634.4
+entry_price= 36634.4
+entry_size_asset= 3.299
+entry_size_usd= 120873.01
+position_size_asset= 3.299
+position_size_usd= 120873.01
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 6618.01
+cash_borrowed= 118466.95
+cash_used= 2406.06
+leverage= 53.42
+liq_price= 36095.2
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38308.2
+tp_pct= 5.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36241.9
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36603.8
+entry_price= 36556.5
+entry_size_asset= 6.053
+entry_size_usd= 221280.18
+position_size_asset= 9.352
+position_size_usd= 342153.19
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1117.77
+cash_borrowed= 452713.84
+cash_used= 7906.3
+leverage= 67.22
+liq_price= 36205.7
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37795.1
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-22T21:25:00.000
+equity= 19853.68
+fees_paid= 311.43
+order_status= TakeProfitFilled
+realized_pnl= 10829.61
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36810.8
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37266.7
+entry_price= 37266.7
+entry_size_asset= 7.935
+entry_size_usd= 295692.68
+position_size_asset= 7.935
+position_size_usd= 295692.68
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 14409.56
+cash_borrowed= 290248.56
+cash_used= 5444.12
+leverage= 58.07
+liq_price= 36774.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38801.7
+tp_pct= 4.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36896.7
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37262.0
+entry_price= 37254.2
+entry_size_asset= 11.57
+entry_size_usd= 431043.532
+position_size_asset= 19.505
+position_size_usd= 726736.21
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2792.45
+cash_borrowed= 999923.54
+cash_used= 17061.23
+leverage= 67.6
+liq_price= 36859.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38517.2
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36955.8
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37024.0
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37097.4
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37097.4
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37448.1
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37494.8
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37580.1
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37572.5
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37143.3
+2024-07-25 06:22:49 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-27T11:35:00.000
+equity= 11860.62
+fees_paid= 867.88
+order_status= StopLossFilled
+realized_pnl= -7993.06
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36665.7
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37232.5
+entry_price= 37232.5
+entry_size_asset= 3.881
+entry_size_usd= 144509.68
+position_size_asset= 3.881
+position_size_usd= 144509.68
+sl_pct= 2.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8769.2
+cash_borrowed= 141418.26
+cash_used= 3091.42
+leverage= 49.49
+liq_price= 36629.1
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39100.0
+tp_pct= 5.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36806.6
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37181.3
+entry_price= 37106.8
+entry_size_asset= 8.471
+entry_size_usd= 314318.509
+position_size_asset= 12.352
+position_size_usd= 458828.19
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1302.49
+cash_borrowed= 589688.32
+cash_used= 10558.13
+leverage= 66.37
+liq_price= 36769.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38368.4
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-28T19:40:00.000
+equity= 26105.94
+fees_paid= 417.74
+order_status= TakeProfitFilled
+realized_pnl= 14245.32
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37560.0
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37848.3
+entry_price= 37848.3
+entry_size_asset= 15.653
+entry_size_usd= 592441.76
+position_size_asset= 15.653
+position_size_usd= 592441.76
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 17928.63
+cash_borrowed= 584264.45
+cash_used= 8177.31
+leverage= 79.3
+liq_price= 37522.4
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38883.3
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37667.3
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37862.4
+entry_price= 37885.0
+entry_size_asset= 26.231
+entry_size_usd= 993759.935
+position_size_asset= 41.884
+position_size_usd= 1586201.7
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - WARNING - leverage.py - calc_liq_price() - 123 - Cash used bigger than available balance AKA position size too big
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37525.5
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37860.3
+entry_price= 37888.8
+entry_size_asset= 11.458
+entry_size_usd= 434143.202
+position_size_asset= 27.111
+position_size_usd= 1026584.96
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2504.68
+cash_borrowed= 1587248.15
+cash_used= 23601.26
+leverage= 72.28
+liq_price= 37487.9
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39050.0
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-30T14:00:00.000
+equity= 15802.91
+fees_paid= 1226.27
+order_status= StopLossFilled
+realized_pnl= -10303.03
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37506.9
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37777.5
+entry_price= 37777.5
+entry_size_asset= 10.007
+entry_size_usd= 378049.4
+position_size_asset= 10.007
+position_size_usd= 378049.4
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10756.91
+cash_borrowed= 373003.4
+cash_used= 5046.0
+leverage= 82.27
+liq_price= 37469.4
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38759.1
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37570.5
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37775.4
+entry_price= 37771.9
+entry_size_asset= 15.393
+entry_size_usd= 581435.496
+position_size_asset= 25.4
+position_size_usd= 959484.9
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - WARNING - leverage.py - calc_liq_price() - 123 - Cash used bigger than available balance AKA position size too big
+2024-07-25 06:22:49 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37472.2
+2024-07-25 06:22:49 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37807.1
+entry_price= 37884.9
+entry_size_asset= 6.143
+entry_size_usd= 232726.029
+position_size_asset= 16.15
+position_size_usd= 610775.43
+sl_pct= 1.0
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1573.6
+cash_borrowed= 969549.52
+cash_used= 14229.31
+leverage= 72.21
+liq_price= 37434.8
+
+2024-07-25 06:22:49 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39015.1
+tp_pct= 3.0
+
+2024-07-25 06:22:49 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:22:49 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-12-02T19:05:00.000
+equity= 34756.73
+fees_paid= 555.38
+order_status= TakeProfitFilled
+realized_pnl= 18953.82
+
+2024-07-25 06:23:54 - INFO - custom_logger.py - set_loggers() - 31 - Testing info log
+2024-07-25 06:23:54 - INFO - dos_ind_cart_funcs.py - get_cur_ind_set_tuple() - 90 - 
+Indicator Settings
+Indicator Settings Inex: 20
+First EMA Length: 10
+Second EMA Length: 220
+            
+2024-07-25 06:23:54 - INFO - strategy.py - set_cur_dos_tuple() - 153 - 
+Settings Index= 20
+account_pct_risk_per_trade=20.0
+max_trades=2
+risk_reward=3.0
+sl_based_on_add_pct=0.3
+sl_based_on_lookback=30
+sl_bcb_type=7
+sl_to_be_cb_type=11
+sl_to_be_when_pct=0.0
+trail_sl_bcb_type=7
+trail_sl_by_pct=2.0
+trail_sl_when_pct=3.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 26662.5
+entry_price= 26662.5
+entry_size_asset= 0.803
+entry_size_usd= 21418.7
+position_size_asset= 0.803
+position_size_usd= 21418.7
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 693.28
+cash_borrowed= 21111.98
+cash_used= 306.72
+leverage= 76.14
+liq_price= 26419.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 27433.6
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 26655.6
+entry_price= 26642.5
+entry_size_asset= 0.874
+entry_size_usd= 23273.357
+position_size_asset= 1.677
+position_size_usd= 44692.06
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 64.31
+cash_borrowed= 64868.35
+cash_used= 935.69
+leverage= 77.65
+liq_price= 26418.9
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 27395.5
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26445.4
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26570.0
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26505.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26534.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26572.1
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26611.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26642.0
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26629.1
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26747.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26755.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26755.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26772.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26720.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26720.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26710.0
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 26710.0
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-15T20:40:00.000
+equity= 2200.21
+fees_paid= 40.6
+order_status= TakeProfitFilled
+realized_pnl= 1200.21
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 27970.8
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28212.0
+entry_price= 28212.0
+entry_size_asset= 1.601
+entry_size_usd= 45154.03
+position_size_asset= 1.601
+position_size_usd= 45154.03
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1534.77
+cash_borrowed= 44488.59
+cash_used= 665.44
+leverage= 73.85
+liq_price= 27942.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29062.4
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28021.0
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28222.8
+entry_price= 28242.0
+entry_size_asset= 2.042
+entry_size_usd= 57679.338
+position_size_asset= 3.643
+position_size_usd= 102833.37
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 163.62
+cash_borrowed= 145285.37
+cash_used= 2036.59
+leverage= 82.35
+liq_price= 27993.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 28973.0
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28032.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28222.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-18T04:55:00.000
+equity= 4839.84
+fees_paid= 93.35
+order_status= TakeProfitFilled
+realized_pnl= 2639.63
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28189.1
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28378.1
+entry_price= 28378.1
+entry_size_asset= 4.337
+entry_size_usd= 123089.55
+position_size_asset= 4.337
+position_size_usd= 123089.55
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3258.73
+cash_borrowed= 121508.44
+cash_used= 1581.11
+leverage= 85.81
+liq_price= 28160.9
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29072.7
+tp_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-19T01:40:00.000
+equity= 3872.95
+fees_paid= 147.2
+order_status= StopLossFilled
+realized_pnl= -966.89
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 28141.9
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 28344.2
+entry_price= 28344.2
+entry_size_asset= 3.277
+entry_size_usd= 92883.94
+position_size_asset= 3.277
+position_size_usd= 92883.94
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2635.48
+cash_borrowed= 91646.47
+cash_used= 1237.47
+leverage= 82.44
+liq_price= 28113.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 29078.5
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-20T02:45:00.000
+equity= 6194.93
+fees_paid= 84.32
+order_status= TakeProfitFilled
+realized_pnl= 2321.98
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29355.2
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29531.0
+entry_price= 29531.0
+entry_size_asset= 5.864
+entry_size_usd= 173159.1
+position_size_asset= 5.864
+position_size_usd= 173159.1
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 4092.59
+cash_borrowed= 171056.76
+cash_used= 2102.34
+leverage= 91.35
+liq_price= 29325.9
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30191.2
+tp_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-21T18:00:00.000
+equity= 9909.33
+fees_paid= 157.01
+order_status= TakeProfitFilled
+realized_pnl= 3714.4
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29740.5
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29896.9
+entry_price= 29896.9
+entry_size_asset= 10.308
+entry_size_usd= 308174.66
+position_size_asset= 10.308
+position_size_usd= 308174.66
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 6389.99
+cash_borrowed= 304655.32
+cash_used= 3519.34
+leverage= 97.79
+liq_price= 29710.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30500.5
+tp_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-22T07:40:00.000
+equity= 7928.31
+fees_paid= 368.85
+order_status= StopLossFilled
+realized_pnl= -1981.02
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29517.8
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29919.3
+entry_price= 29919.3
+entry_size_asset= 3.626
+entry_size_usd= 108477.09
+position_size_asset= 3.626
+position_size_usd= 108477.09
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 5802.5
+cash_borrowed= 106351.28
+cash_used= 2125.81
+leverage= 54.33
+liq_price= 29488.3
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 31258.1
+tp_pct= 4.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29711.6
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29922.3
+entry_price= 29926.5
+entry_size_asset= 9.124
+entry_size_usd= 273049.404
+position_size_asset= 12.75
+position_size_usd= 381526.49
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 755.92
+cash_borrowed= 480705.38
+cash_used= 7172.39
+leverage= 83.09
+liq_price= 29681.9
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 30695.3
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29711.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29680.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29740.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29747.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-22T21:55:00.000
+equity= 4785.68
+fees_paid= 456.2
+order_status= StopLossFilled
+realized_pnl= -3142.63
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 29608.9
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 29974.0
+entry_price= 29974.0
+entry_size_asset= 2.387
+entry_size_usd= 71560.77
+position_size_asset= 2.387
+position_size_usd= 71560.77
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3472.27
+cash_borrowed= 70247.36
+cash_used= 1313.41
+leverage= 58.25
+liq_price= 29579.3
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 31203.9
+tp_pct= 4.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-10-23T16:55:00.000
+equity= 7656.17
+fees_paid= 65.28
+order_status= TakeProfitFilled
+realized_pnl= 2870.49
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33279.1
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 33860.8
+entry_price= 33860.8
+entry_size_asset= 2.461
+entry_size_usd= 83347.63
+position_size_asset= 2.461
+position_size_usd= 83347.63
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 5710.4
+cash_borrowed= 81401.86
+cash_used= 1945.77
+leverage= 45.12
+liq_price= 33245.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 35757.8
+tp_pct= 6.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33279.1
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 33837.0
+entry_price= 33792.1
+entry_size_asset= 2.767
+entry_size_usd= 93513.571
+position_size_asset= 5.228
+position_size_usd= 176861.2
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1701.82
+cash_borrowed= 252308.71
+cash_used= 5954.35
+leverage= 46.57
+liq_price= 33245.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 35625.5
+tp_pct= 5.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33384.8
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33559.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34298.5
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33987.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33867.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33827.5
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33810.4
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33765.8
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33872.0
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34001.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34183.4
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34207.8
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 33914.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34057.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34227.4
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34301.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34250.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34250.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34100.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34100.7
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-01T21:00:00.000
+equity= 16844.43
+fees_paid= 162.02
+order_status= TakeProfitFilled
+realized_pnl= 9188.26
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34052.9
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 34718.5
+entry_price= 34718.5
+entry_size_asset= 4.765
+entry_size_usd= 165423.76
+position_size_asset= 4.765
+position_size_usd= 165423.76
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 12652.33
+cash_borrowed= 161231.66
+cash_used= 4192.1
+leverage= 41.4
+liq_price= 34018.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 36871.0
+tp_pct= 6.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34237.0
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 34670.1
+entry_price= 34599.9
+entry_size_asset= 10.501
+entry_size_usd= 363344.767
+position_size_asset= 15.266
+position_size_usd= 528768.53
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2771.33
+cash_borrowed= 675927.09
+cash_used= 14073.1
+leverage= 57.21
+liq_price= 34202.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 36026.7
+tp_pct= 4.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34467.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34528.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34707.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34252.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34724.3
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34716.5
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34800.3
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34850.3
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34456.3
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 34967.8
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-08T23:45:00.000
+equity= 37071.73
+fees_paid= 482.56
+order_status= TakeProfitFilled
+realized_pnl= 20227.3
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36042.1
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36598.6
+entry_price= 36598.6
+entry_size_asset= 12.355
+entry_size_usd= 452173.08
+position_size_asset= 12.355
+position_size_usd= 452173.08
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 27405.27
+cash_borrowed= 442506.62
+cash_used= 9666.46
+leverage= 49.53
+liq_price= 36006.1
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38432.3
+tp_pct= 5.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36324.0
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36667.4
+entry_price= 36775.2
+entry_size_asset= 22.007
+entry_size_usd= 809311.063
+position_size_asset= 34.362
+position_size_usd= 1261484.14
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 7816.81
+cash_borrowed= 1674735.84
+cash_used= 29254.92
+leverage= 69.66
+liq_price= 36287.7
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37993.8
+tp_pct= 4.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36831.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36824.3
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36478.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36797.3
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36844.1
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36849.1
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T00:15:00.000
+equity= 23766.94
+fees_paid= 1504.88
+order_status= StopLossFilled
+realized_pnl= -13304.79
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36295.6
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36658.0
+entry_price= 36658.0
+entry_size_asset= 11.702
+entry_size_usd= 428969.51
+position_size_asset= 11.702
+position_size_usd= 428969.51
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 16874.39
+cash_borrowed= 422076.96
+cash_used= 6892.55
+leverage= 67.22
+liq_price= 36259.3
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37909.9
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36295.6
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36657.1
+entry_price= 36655.2
+entry_size_asset= 11.783
+entry_size_usd= 431916.007
+position_size_asset= 23.485
+position_size_usd= 860885.52
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3062.83
+cash_borrowed= 1262258.37
+cash_used= 20704.11
+leverage= 67.33
+liq_price= 36259.3
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37904.8
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T11:25:00.000
+equity= 14249.13
+fees_paid= 1027.98
+order_status= StopLossFilled
+realized_pnl= -9517.81
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36092.9
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36665.3
+entry_price= 36665.3
+entry_size_asset= 4.625
+entry_size_usd= 169561.9
+position_size_asset= 4.625
+position_size_usd= 169561.9
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10554.9
+cash_borrowed= 165867.67
+cash_used= 3694.23
+leverage= 48.55
+liq_price= 36056.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38547.0
+tp_pct= 5.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-14T15:30:00.000
+equity= 11399.87
+fees_paid= 201.91
+order_status= StopLossFilled
+realized_pnl= -2849.26
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 35442.2
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 35803.1
+entry_price= 35803.1
+entry_size_asset= 5.646
+entry_size_usd= 202145.01
+position_size_asset= 5.646
+position_size_usd= 202145.01
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8112.95
+cash_borrowed= 198858.09
+cash_used= 3286.92
+leverage= 66.36
+liq_price= 35406.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37046.6
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-15T18:10:00.000
+equity= 18236.63
+fees_paid= 184.04
+order_status= TakeProfitFilled
+realized_pnl= 6836.76
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36000.0
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36650.0
+entry_price= 36650.0
+entry_size_asset= 5.258
+entry_size_usd= 192711.18
+position_size_asset= 5.258
+position_size_usd= 192711.18
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 13630.32
+cash_borrowed= 188104.87
+cash_used= 4606.31
+leverage= 44.02
+liq_price= 35964.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38764.4
+tp_pct= 6.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36021.0
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36610.8
+entry_price= 36540.8
+entry_size_asset= 6.67
+entry_size_usd= 243720.431
+position_size_asset= 11.928
+position_size_usd= 436431.61
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 3900.81
+cash_borrowed= 610200.66
+cash_used= 14335.82
+leverage= 47.41
+liq_price= 35985.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38479.9
+tp_pct= 5.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-17T14:45:00.000
+equity= 10681.68
+fees_paid= 519.82
+order_status= StopLossFilled
+realized_pnl= -7554.95
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 35809.3
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36527.0
+entry_price= 36527.0
+entry_size_asset= 2.806
+entry_size_usd= 102511.48
+position_size_asset= 2.806
+position_size_usd= 102511.48
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8035.7
+cash_borrowed= 99865.5
+cash_used= 2645.98
+leverage= 40.6
+liq_price= 35773.4
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38843.9
+tp_pct= 6.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36087.4
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36479.9
+entry_price= 36416.0
+entry_size_asset= 7.837
+entry_size_usd= 285376.922
+position_size_asset= 10.643
+position_size_usd= 387888.4
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1459.2
+cash_borrowed= 478531.42
+cash_used= 9222.48
+leverage= 63.5
+liq_price= 36051.3
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37718.4
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36340.6
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36323.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36273.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36273.9
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36490.2
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-20T17:45:00.000
+equity= 23509.66
+fees_paid= 353.38
+order_status= TakeProfitFilled
+realized_pnl= 12827.98
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37138.6
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37424.7
+entry_price= 37424.7
+entry_size_asset= 14.209
+entry_size_usd= 531781.49
+position_size_asset= 14.209
+position_size_usd= 531781.49
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 16155.39
+cash_borrowed= 524427.22
+cash_used= 7354.27
+leverage= 79.13
+liq_price= 37101.4
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38451.2
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37183.8
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37424.4
+entry_price= 37423.8
+entry_size_asset= 18.762
+entry_size_usd= 702161.843
+position_size_asset= 32.971
+position_size_usd= 1233943.33
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 589.25
+cash_borrowed= 1735450.14
+cash_used= 22920.41
+leverage= 87.55
+liq_price= 37146.6
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38313.8
+tp_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-21T11:25:00.000
+equity= 14100.9
+fees_paid= 1475.94
+order_status= StopLossFilled
+realized_pnl= -9408.76
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36103.6
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37396.3
+entry_price= 37396.3
+entry_size_asset= 2.11
+entry_size_usd= 78888.07
+position_size_asset= 2.11
+position_size_usd= 78888.07
+sl_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10889.26
+cash_borrowed= 75676.43
+cash_used= 3211.64
+leverage= 25.3
+liq_price= 36067.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 41441.6
+tp_pct= 11.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-21T23:20:00.000
+equity= 11280.25
+fees_paid= 93.05
+order_status= StopLossFilled
+realized_pnl= -2820.65
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36276.2
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36628.0
+entry_price= 36628.0
+entry_size_asset= 5.704
+entry_size_usd= 208909.95
+position_size_asset= 5.704
+position_size_usd= 208909.95
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 7982.24
+cash_borrowed= 205611.94
+cash_used= 3298.01
+leverage= 68.52
+liq_price= 36240.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37848.0
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-22T15:05:00.000
+equity= 9024.07
+fees_paid= 249.51
+order_status= StopLossFilled
+realized_pnl= -2256.18
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36131.3
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36634.4
+entry_price= 36634.4
+entry_size_asset= 3.299
+entry_size_usd= 120873.01
+position_size_asset= 3.299
+position_size_usd= 120873.01
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 6618.01
+cash_borrowed= 118466.95
+cash_used= 2406.06
+leverage= 53.42
+liq_price= 36095.2
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38308.2
+tp_pct= 5.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36241.9
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 36603.8
+entry_price= 36556.5
+entry_size_asset= 6.053
+entry_size_usd= 221280.18
+position_size_asset= 9.352
+position_size_usd= 342153.19
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1117.77
+cash_borrowed= 452713.84
+cash_used= 7906.3
+leverage= 67.22
+liq_price= 36205.7
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 37795.1
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-22T21:25:00.000
+equity= 19853.68
+fees_paid= 311.43
+order_status= TakeProfitFilled
+realized_pnl= 10829.61
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36810.8
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37266.7
+entry_price= 37266.7
+entry_size_asset= 7.935
+entry_size_usd= 295692.68
+position_size_asset= 7.935
+position_size_usd= 295692.68
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 14409.56
+cash_borrowed= 290248.56
+cash_used= 5444.12
+leverage= 58.07
+liq_price= 36774.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38801.7
+tp_pct= 4.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36896.7
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37262.0
+entry_price= 37254.2
+entry_size_asset= 11.57
+entry_size_usd= 431043.532
+position_size_asset= 19.505
+position_size_usd= 726736.21
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2792.45
+cash_borrowed= 999923.54
+cash_used= 17061.23
+leverage= 67.6
+liq_price= 36859.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38517.2
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36955.8
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37024.0
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37097.4
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37097.4
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37448.1
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37494.8
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37580.1
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37572.5
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37143.3
+2024-07-25 06:23:54 - WARNING - increase_position.py - c_pl_ra_ps() - 129 - Max trades reached - total trades= 3 max trades= 2
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-27T11:35:00.000
+equity= 11860.62
+fees_paid= 867.88
+order_status= StopLossFilled
+realized_pnl= -7993.06
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36665.7
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37232.5
+entry_price= 37232.5
+entry_size_asset= 3.881
+entry_size_usd= 144509.68
+position_size_asset= 3.881
+position_size_usd= 144509.68
+sl_pct= 2.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 8769.2
+cash_borrowed= 141418.26
+cash_used= 3091.42
+leverage= 49.49
+liq_price= 36629.1
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39100.0
+tp_pct= 5.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 36806.6
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37181.3
+entry_price= 37106.8
+entry_size_asset= 8.471
+entry_size_usd= 314318.509
+position_size_asset= 12.352
+position_size_usd= 458828.19
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1302.49
+cash_borrowed= 589688.32
+cash_used= 10558.13
+leverage= 66.37
+liq_price= 36769.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38368.4
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-28T19:40:00.000
+equity= 26105.94
+fees_paid= 417.74
+order_status= TakeProfitFilled
+realized_pnl= 14245.32
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37560.0
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37848.3
+entry_price= 37848.3
+entry_size_asset= 15.653
+entry_size_usd= 592441.76
+position_size_asset= 15.653
+position_size_usd= 592441.76
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 17928.63
+cash_borrowed= 584264.45
+cash_used= 8177.31
+leverage= 79.3
+liq_price= 37522.4
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38883.3
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37667.3
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37862.4
+entry_price= 37885.0
+entry_size_asset= 26.231
+entry_size_usd= 993759.935
+position_size_asset= 41.884
+position_size_usd= 1586201.7
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - WARNING - leverage.py - calc_liq_price() - 123 - Cash used bigger than available balance AKA position size too big
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37525.5
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37860.3
+entry_price= 37888.8
+entry_size_asset= 11.458
+entry_size_usd= 434143.202
+position_size_asset= 27.111
+position_size_usd= 1026584.96
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 2504.68
+cash_borrowed= 1587248.15
+cash_used= 23601.26
+leverage= 72.28
+liq_price= 37487.9
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39050.0
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-11-30T14:00:00.000
+equity= 15802.91
+fees_paid= 1226.27
+order_status= StopLossFilled
+realized_pnl= -10303.03
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37506.9
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37777.5
+entry_price= 37777.5
+entry_size_asset= 10.007
+entry_size_usd= 378049.4
+position_size_asset= 10.007
+position_size_usd= 378049.4
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 10756.91
+cash_borrowed= 373003.4
+cash_used= 5046.0
+leverage= 82.27
+liq_price= 37469.4
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 38759.1
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37570.5
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37775.4
+entry_price= 37771.9
+entry_size_asset= 15.393
+entry_size_usd= 581435.496
+position_size_asset= 25.4
+position_size_usd= 959484.9
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - WARNING - leverage.py - calc_liq_price() - 123 - Cash used bigger than available balance AKA position size too big
+2024-07-25 06:23:54 - INFO - order.py - calculate_stop_loss() - 271 - sl price= 37472.2
+2024-07-25 06:23:54 - INFO - order.py - calculate_increase_position() - 303 - 
+average_entry= 37807.1
+entry_price= 37884.9
+entry_size_asset= 6.143
+entry_size_usd= 232726.029
+position_size_asset= 16.15
+position_size_usd= 610775.43
+sl_pct= 1.0
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_leverage() - 351 - 
+available_balance= 1573.6
+cash_borrowed= 969549.52
+cash_used= 14229.31
+leverage= 72.21
+liq_price= 37434.8
+
+2024-07-25 06:23:54 - INFO - order.py - calculate_take_profit() - 383 - 
+tp_price= 39015.1
+tp_pct= 3.0
+
+2024-07-25 06:23:54 - INFO - bt_or_bt.py - or_backtest() - 276 - We are in a position and filled the result
+2024-07-25 06:23:54 - INFO - order.py - calculate_decrease_position() - 428 - 
+datetime= 2023-12-02T19:05:00.000
+equity= 34756.73
+fees_paid= 555.38
+order_status= TakeProfitFilled
+realized_pnl= 18953.82
+
